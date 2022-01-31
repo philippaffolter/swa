@@ -8,3 +8,8 @@ nav:
     - Home: index.md
 theme:
   name: 'material'
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    primary: 'grey'
+    accent: 'pink'
