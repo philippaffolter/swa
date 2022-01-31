@@ -1,6 +1,6 @@
 site_name: SWA mkdocs
 site_description: 'A mkdocs test'
-site_author: 'Philip Affolter'
+site_author: 'Philipp Affolter'
 docs_dir: docs/
 repo_name: 'philippaffolter/swa'
 repo_url: 'https://github.com/philippaffolter/swa'
